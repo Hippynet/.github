@@ -1,26 +1,22 @@
-# Hippynet
+# Hippynet Broadcast Technologies
 
-Welcome to **Hippynet** – a collective of developers building tools and automation solutions.
+**Trusted infrastructure since 2009**
 
-## About Us
+Built and supported by broadcast engineers in the UK.
 
-We create open-source tools and integrations that solve real-world problems, with a focus on:
+📻 **200+ Stations** • ⏱️ **99.9% Uptime** • 🎙️ **15+ Years**
 
-- 🔧 **Automation** – Streamlining workflows and reducing manual tasks
-- 🔌 **Integrations** – Connecting systems that don't naturally talk to each other
-- 🛠️ **Developer Tools** – Browser extensions and utilities that improve productivity
+## Our Products
 
-## Our Projects
-
-| Project | Description |
+| Product | Description |
 |---------|-------------|
-| [WHMCS Assistant Extension](https://github.com/Hippynet/whmcs-assistant-extension) | Chrome extension for enhanced WHMCS management |
-| [LibreTime Automation](https://github.com/Hippynet/whmcs-libretime-automation) | Automated radio station provisioning via WHMCS |
+| [Stream Hosting](https://hippynet.co.uk/store/stream-hosting) | Modern control panel supporting Shoutcast & Icecast for online radio |
+| [Listen Again (AutoPod)](https://hippynet.co.uk/store/autopod) | On-demand catch-up service, embeddable on your website |
+| [Stream Backup](https://hippynet.co.uk/store/stream-backup) | Automatic listener failover if your main stream fails |
+| [Audio Toolbox](https://hippynet.co.uk/store/audio-toolbox) | Compression, silence detection & provider-agnostic audio processing |
+| [Cloud Playout](https://hippynet.co.uk/store/cloud-playout) | Professional cloud-based broadcast solutions |
+| [Alexa Skills](https://hippynet.co.uk/store/alexa-skills) | Voice integration for your radio station |
 
 ## Get in Touch
 
-🌐 **Website**: [hippynet.co.uk](https://hippynet.co.uk)
-
----
-
-*Building tools that make a difference.*
+🌐 [hippynet.co.uk](https://hippynet.co.uk) • 📧 support@hippynet.co.uk • 📞 +44 800 520 0073
