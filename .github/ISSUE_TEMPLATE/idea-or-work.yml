@@ -1,0 +1,23 @@
+name: Idea or work item
+description: Capture an idea, problem or improvement to return to.
+projects: ["Hippynet/3"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Search existing issues first. A few sentences are enough; add acceptance criteria when choosing to do the work.
+        Check this repository's visibility before including customer or operational information.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is the problem or idea?
+      description: Describe what needs fixing or what could be better.
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Why is it useful?
+      description: Who benefits, and what would improve?
+    validations:
+      required: true
